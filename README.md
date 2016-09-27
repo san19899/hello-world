@@ -1,2 +1,2 @@
 # hello-world
-Creating my first repository on GitHub, following the GitHub Guides!!
+Entering the world of GitHub with the hope of coding amazing stuff and becoming a better programmer!
